@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adendens.github.io/sitemap
+Sitemap: https://adendens.github.io/app/sitemap
+Sitemap: https://adendens.github.io/assets/sitemap
+Sitemap: https://adendens.github.io/css/sitemap
+Sitemap: https://adendens.github.io/includes/sitemap
+Sitemap: https://adendens.github.io/item/sitemap
+Sitemap: https://adendens.github.io/src/sitemap
